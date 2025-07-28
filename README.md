@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold; color: #4fc3f7;">
+  Hey there! 👋
+</h1>
 
-<!--
-**Mr-Morat/Mr-Morat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="font-family: 'Segoe UI', sans-serif; font-size: 16px; color: #90caf9;">
+  I'm <strong>Mr-Morat</strong> — just someone who loves exploring Android stuff,<br>
+  especially custom kernels.  
+  <br><br>
+  Sometimes I build things, sometimes I break them (on purpose 😄).
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="font-family: 'Segoe UI', sans-serif; font-size: 15px; color: #b0bec5;">
+  Thanks for stopping by!
+</p>
+
+---
+
+<h3 style="font-family: 'Segoe UI', sans-serif; font-weight: bold; color: #64b5f6;">📫 Reach me</h3>
+
+- Telegram: <a href="https://t.me/MasMasBertelur">@MasMasBertelur</a>  
+- GitHub: <a href="https://github.com/Mr-Morat">github.com/Mr-Morat</a>
