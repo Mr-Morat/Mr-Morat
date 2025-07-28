@@ -19,5 +19,4 @@
 
 <h3 style="font-family: 'Segoe UI', sans-serif; font-weight: bold; color: #64b5f6;">📫 Reach me</h3>
 
-- Telegram: <a href="https://t.me/MasMasBertelur">@MasMasBertelur</a>  
-- GitHub: <a href="https://github.com/Mr-Morat">github.com/Mr-Morat</a>
+📬 Telegram: [@MasMasBertelur](https://t.me/MasMasBertelur)
